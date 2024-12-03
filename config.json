@@ -1,8 +1,8 @@
 {
     "actions": [
         {
-            "type": "open",
-            "path": "C:\\Program Files (x86)\\Advanced IP Scanner\\advanced_ip_scanner.exe"
+            "type": "open_app",
+            "path": "c:\\Program Files (x86)\\Pro-Soft\\ProSoft19\\Gestion de personal.exe"
         },
         {
             "type": "point_and_click",
@@ -13,6 +13,11 @@
             "type": "point_and_click",
             "x": 700,
             "y": 300
+        },
+        {
+            "type": "point_and_click",
+            "x": 200,
+            "y": 600
         }
     ]
 }
