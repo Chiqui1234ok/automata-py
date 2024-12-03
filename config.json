@@ -1,0 +1,18 @@
+{
+    "actions": [
+        {
+            "type": "open",
+            "path": "C:\\Program Files (x86)\\Advanced IP Scanner\\advanced_ip_scanner.exe"
+        },
+        {
+            "type": "point_and_click",
+            "x": 500,
+            "y": 300
+        },
+        {
+            "type": "point_and_click",
+            "x": 700,
+            "y": 300
+        }
+    ]
+}
