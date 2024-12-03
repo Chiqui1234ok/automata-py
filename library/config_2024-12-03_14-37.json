@@ -1,0 +1,70 @@
+{
+    "actions": [
+        {
+            "type": "point_and_click",
+            "x": 746,
+            "y": 103,
+            "delay": 2680
+        },
+        {
+            "type": "point_and_click",
+            "x": 660,
+            "y": 110,
+            "delay": 1127
+        },
+        {
+            "type": "point_and_click",
+            "x": 569,
+            "y": 113,
+            "delay": 655
+        },
+        {
+            "type": "point_and_click",
+            "x": 473,
+            "y": 114,
+            "delay": 664
+        },
+        {
+            "type": "point_and_click",
+            "x": 699,
+            "y": 341,
+            "delay": 1951
+        },
+        {
+            "type": "point_and_click",
+            "x": 882,
+            "y": 620,
+            "delay": 776
+        },
+        {
+            "type": "point_and_click",
+            "x": 1091,
+            "y": 590,
+            "delay": 631
+        },
+        {
+            "type": "point_and_click",
+            "x": 1671,
+            "y": 636,
+            "delay": 1920
+        },
+        {
+            "type": "point_and_click",
+            "x": 1409,
+            "y": 966,
+            "delay": 1006
+        },
+        {
+            "type": "point_and_click",
+            "x": 728,
+            "y": 952,
+            "delay": 1888
+        },
+        {
+            "type": "point_and_click",
+            "x": 551,
+            "y": 981,
+            "delay": 943
+        }
+    ]
+}
